@@ -1,2 +1,2 @@
 # programma1
-interaction with repository 
+practic of interaction with repository 
